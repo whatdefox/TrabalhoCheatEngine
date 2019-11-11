@@ -25,6 +25,7 @@ body {
 
 body > .container {
   padding: 60px 15px 0;
+
 }
 
 .footer > .container {
@@ -36,3 +37,4 @@ code {
   font-size: 80%;
 }
 
+a { color: inherit; }
